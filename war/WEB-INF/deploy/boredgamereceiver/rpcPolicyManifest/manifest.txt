@@ -1,0 +1,3 @@
+# Module boredgamereceiver
+# RPC service class, partial path of RPC policy file
+com.boredgame.receiver.client.GreetingService, 524C2486F605827FE9446E40E0850032.gwt.rpc

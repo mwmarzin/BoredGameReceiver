@@ -1,0 +1,2 @@
+serviceClass: com.boredgame.receiver.client.GreetingService
+path: 524C2486F605827FE9446E40E0850032.gwt.rpc
